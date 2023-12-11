@@ -1,0 +1,24 @@
+.hero{
+    height: 100vh;
+    background-image: url(../the-water-barriers-xb.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.titl{
+    margin-top: 10%;
+    color: azure;
+}
+.titlo{
+    color: azure;
+}
+.hom{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.507);
+}
+.btn{
+    color: azure;
+}
+.demo{
+    color: azure;
+}
